@@ -1,0 +1,45 @@
+# ==========================================
+# Private Course Notes & Environment Config
+# ==========================================
+GEMINI.md
+.agents/
+.gemini/
+Istruzioni.txt
+ultimo_aggiornamento.txt
+Info_corso.txt
+requisiti.txt
+**/transcripts/
+**/deck_*_text.txt
+1_Akka/code/.git/
+
+# ==========================================
+# Java, Maven & Eclipse Artifacts
+# ==========================================
+**/target/
+*.class
+.metadata/
+.sonarlint/
+pmd-eclipse.log
+.settings/
+.project
+.classpath
+
+# ==========================================
+# LaTeX Auxiliary Files
+# ==========================================
+LaTex/*.aux
+LaTex/*.log
+LaTex/*.out
+LaTex/*.toc
+LaTex/*.synctex.gz
+LaTex/*.fls
+LaTex/*.fdb_latexmk
+
+# ==========================================
+# Operating System Artifacts & macOS Junk
+# ==========================================
+.DS_Store
+Thumbs.db
+desktop.ini
+**/__MACOSX/
+**/._*
